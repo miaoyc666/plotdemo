@@ -1,0 +1,111 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdvancedScope", "AdvancedScope\AdvancedScope.vcproj", "{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LargeDataScopeDemo", "LargeDataScopeDemo\LargeDataScopeDemo.vcproj", "{B4DA16CC-C443-47FA-B392-138221014F9D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiAxesScopeDemo", "MultiAxesScopeDemo\MultiAxesScopeDemo.vcproj", "{B5CCE440-C50D-4062-A5FC-159C36EF8750}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScrollingScopeDemo", "ScrollingScopeDemo\ScrollingScopeDemo.vcproj", "{54CCB231-6D85-49EF-A7AD-A07EB8853B46}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleMultiWaterfall", "SimpleMultiWaterfall\SimpleMultiWaterfall.vcproj", "{92D1B212-84D3-4893-A902-4C97BA9BA5B6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleScope", "SimpleScope\SimpleScope.vcproj", "{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleWaterfall", "SimpleWaterfall\SimpleWaterfall.vcproj", "{428021F0-0E6E-4EE3-8696-9F30D0680F22}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XYScopeDemo", "XYScopeDemo\XYScopeDemo.vcproj", "{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Debug Shared DLLs = Debug Shared DLLs
+		Release = Release
+		Release Shared DLLs = Release Shared DLLs
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}.Debug.ActiveCfg = Debug|Win32
+		{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}.Debug.Build.0 = Debug|Win32
+		{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}.Debug Shared DLLs.ActiveCfg = Debug|Win32
+		{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}.Debug Shared DLLs.Build.0 = Debug|Win32
+		{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}.Release.ActiveCfg = Release|Win32
+		{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}.Release.Build.0 = Release|Win32
+		{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}.Release Shared DLLs.ActiveCfg = Release|Win32
+		{F05EB5FD-FB59-4F41-9083-CA97BD54FFF6}.Release Shared DLLs.Build.0 = Release|Win32
+		{B4DA16CC-C443-47FA-B392-138221014F9D}.Debug.ActiveCfg = Debug|Win32
+		{B4DA16CC-C443-47FA-B392-138221014F9D}.Debug.Build.0 = Debug|Win32
+		{B4DA16CC-C443-47FA-B392-138221014F9D}.Debug Shared DLLs.ActiveCfg = Debug|Win32
+		{B4DA16CC-C443-47FA-B392-138221014F9D}.Debug Shared DLLs.Build.0 = Debug|Win32
+		{B4DA16CC-C443-47FA-B392-138221014F9D}.Release.ActiveCfg = Release|Win32
+		{B4DA16CC-C443-47FA-B392-138221014F9D}.Release.Build.0 = Release|Win32
+		{B4DA16CC-C443-47FA-B392-138221014F9D}.Release Shared DLLs.ActiveCfg = Release|Win32
+		{B4DA16CC-C443-47FA-B392-138221014F9D}.Release Shared DLLs.Build.0 = Release|Win32
+		{B5CCE440-C50D-4062-A5FC-159C36EF8750}.Debug.ActiveCfg = Debug|Win32
+		{B5CCE440-C50D-4062-A5FC-159C36EF8750}.Debug.Build.0 = Debug|Win32
+		{B5CCE440-C50D-4062-A5FC-159C36EF8750}.Debug Shared DLLs.ActiveCfg = Debug|Win32
+		{B5CCE440-C50D-4062-A5FC-159C36EF8750}.Debug Shared DLLs.Build.0 = Debug|Win32
+		{B5CCE440-C50D-4062-A5FC-159C36EF8750}.Release.ActiveCfg = Release|Win32
+		{B5CCE440-C50D-4062-A5FC-159C36EF8750}.Release.Build.0 = Release|Win32
+		{B5CCE440-C50D-4062-A5FC-159C36EF8750}.Release Shared DLLs.ActiveCfg = Release|Win32
+		{B5CCE440-C50D-4062-A5FC-159C36EF8750}.Release Shared DLLs.Build.0 = Release|Win32
+		{54CCB231-6D85-49EF-A7AD-A07EB8853B46}.Debug.ActiveCfg = Debug|Win32
+		{54CCB231-6D85-49EF-A7AD-A07EB8853B46}.Debug.Build.0 = Debug|Win32
+		{54CCB231-6D85-49EF-A7AD-A07EB8853B46}.Debug Shared DLLs.ActiveCfg = Debug|Win32
+		{54CCB231-6D85-49EF-A7AD-A07EB8853B46}.Debug Shared DLLs.Build.0 = Debug|Win32
+		{54CCB231-6D85-49EF-A7AD-A07EB8853B46}.Release.ActiveCfg = Release|Win32
+		{54CCB231-6D85-49EF-A7AD-A07EB8853B46}.Release.Build.0 = Release|Win32
+		{54CCB231-6D85-49EF-A7AD-A07EB8853B46}.Release Shared DLLs.ActiveCfg = Release|Win32
+		{54CCB231-6D85-49EF-A7AD-A07EB8853B46}.Release Shared DLLs.Build.0 = Release|Win32
+		{92D1B212-84D3-4893-A902-4C97BA9BA5B6}.Debug.ActiveCfg = Debug|Win32
+		{92D1B212-84D3-4893-A902-4C97BA9BA5B6}.Debug.Build.0 = Debug|Win32
+		{92D1B212-84D3-4893-A902-4C97BA9BA5B6}.Debug Shared DLLs.ActiveCfg = Debug|Win32
+		{92D1B212-84D3-4893-A902-4C97BA9BA5B6}.Debug Shared DLLs.Build.0 = Debug|Win32
+		{92D1B212-84D3-4893-A902-4C97BA9BA5B6}.Release.ActiveCfg = Release|Win32
+		{92D1B212-84D3-4893-A902-4C97BA9BA5B6}.Release.Build.0 = Release|Win32
+		{92D1B212-84D3-4893-A902-4C97BA9BA5B6}.Release Shared DLLs.ActiveCfg = Release|Win32
+		{92D1B212-84D3-4893-A902-4C97BA9BA5B6}.Release Shared DLLs.Build.0 = Release|Win32
+		{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}.Debug.ActiveCfg = Debug|Win32
+		{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}.Debug.Build.0 = Debug|Win32
+		{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}.Debug Shared DLLs.ActiveCfg = Debug Shared DLLs|Win32
+		{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}.Debug Shared DLLs.Build.0 = Debug Shared DLLs|Win32
+		{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}.Release.ActiveCfg = Release|Win32
+		{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}.Release.Build.0 = Release|Win32
+		{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}.Release Shared DLLs.ActiveCfg = Release Shared DLLs|Win32
+		{F3C52AB6-6EAE-4598-92DB-F1640B86ECD8}.Release Shared DLLs.Build.0 = Release Shared DLLs|Win32
+		{428021F0-0E6E-4EE3-8696-9F30D0680F22}.Debug.ActiveCfg = Debug|Win32
+		{428021F0-0E6E-4EE3-8696-9F30D0680F22}.Debug.Build.0 = Debug|Win32
+		{428021F0-0E6E-4EE3-8696-9F30D0680F22}.Debug Shared DLLs.ActiveCfg = Debug Shared DLLs|Win32
+		{428021F0-0E6E-4EE3-8696-9F30D0680F22}.Debug Shared DLLs.Build.0 = Debug Shared DLLs|Win32
+		{428021F0-0E6E-4EE3-8696-9F30D0680F22}.Release.ActiveCfg = Release|Win32
+		{428021F0-0E6E-4EE3-8696-9F30D0680F22}.Release.Build.0 = Release|Win32
+		{428021F0-0E6E-4EE3-8696-9F30D0680F22}.Release Shared DLLs.ActiveCfg = Release Shared DLLs|Win32
+		{428021F0-0E6E-4EE3-8696-9F30D0680F22}.Release Shared DLLs.Build.0 = Release Shared DLLs|Win32
+		{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}.Debug.ActiveCfg = Debug|Win32
+		{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}.Debug.Build.0 = Debug|Win32
+		{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}.Debug Shared DLLs.ActiveCfg = Debug|Win32
+		{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}.Debug Shared DLLs.Build.0 = Debug|Win32
+		{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}.Release.ActiveCfg = Release|Win32
+		{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}.Release.Build.0 = Release|Win32
+		{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}.Release Shared DLLs.ActiveCfg = Release|Win32
+		{23EC4064-6FC8-4FF4-9D30-A27CD45CC9C4}.Release Shared DLLs.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
